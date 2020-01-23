@@ -10,3 +10,6 @@
 [ ] react-test-renderer
 [ ] _error 404
 [ ] zeit/now deploy as SPA
+
+
+anyenv
