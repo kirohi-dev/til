@@ -1,0 +1,3 @@
+# vuex-module-decorator
+
+moduleデコレーターのnameプロパティとファイルのnamespaceは同一でないと動かない
