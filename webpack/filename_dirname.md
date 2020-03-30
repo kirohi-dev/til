@@ -3,8 +3,7 @@
 ```
  target: 'node',
   node: {
-    __dirname: false,
-    __filename: false
+    __dirname: true
   },
 ```
 で解決
