@@ -60,6 +60,11 @@ isValidOffSet 0以上かどうか
 
 db.service.tsとかかっこいいな
 
+    { name: ErrorCodes.ERR_INVALID_INPUT, code: 400 },
+    { name: ErrorCodes.ERR_NOT_FOUND, code: 404 },
+    { name: ErrorCodes.ERR_UNKNOWN, code: 500 },
+    { name: ErrorCodes.ERR_UNKNOWN_ROUTE, code: 404 },
+
 
 
 https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1
