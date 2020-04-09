@@ -68,3 +68,6 @@ db.service.tsとかかっこいいな
 
 
 https://qiita.com/zaburo/items/16ac4189d0d1c35e26d1
+
+
+https://ja.javascript.info/promise-error-handling
