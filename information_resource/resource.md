@@ -12,6 +12,7 @@ https://dev.mysql.com/doc/refman/5.6/ja/binary-log.html
 https://qiita.com/tossh/items/e135bd063a50087c3d6a
 https://www.npmjs.com/package/renovate
 https://qiita.com/mush/items/121e45fefed009b6ad5e
+https://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc
 
 
 https://qiita.com/takuyanin/items/18590600d077df707923
