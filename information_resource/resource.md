@@ -6,6 +6,13 @@
 
 
 
+https://siguniang.wordpress.com/2012/12/09/postgresql-pub-sub/
+https://github.com/hapijs/nes
+https://dev.mysql.com/doc/refman/5.6/ja/binary-log.html
+https://qiita.com/tossh/items/e135bd063a50087c3d6a
+https://www.npmjs.com/package/renovate
+
+
 
 https://qiita.com/takuyanin/items/18590600d077df707923
 
